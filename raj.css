@@ -82,7 +82,7 @@ section{
     align-items: center;
     padding: 0 9%;
     /* background: url("https://www.shutterstock.com/image-photo/ man-look-dashboard-graphs-charts-260nw-2440357647.jpg")no-repeat; */
-    background:url("https://sdmntprwestus.oaiusercontent.com/files/00000000-9db8-6230-9847-0f735ac5679f/raw?se=2025-09-17T16%3A15%3A02Z&sp=r&sv=2024-08-04&sr=b&scid=4c849345-6b5f-50f8-ad1d-eeb3e2310c3a&skoid=f8b66c09-1aa0-4801-9884-173c5cef2b8c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-17T13%3A09%3A24Z&ske=2025-09-18T13%3A09%3A24Z&sks=b&skv=2024-08-04&sig=BJPEksFtN%2B9TSeHOz5nUTgJy7hG8AMjreSLqQ8bYimY%3D") no-repeat;
+    background:url("https://sdmntprwestus.oaiusercontent.com/files/00000000-9db8-6230-9847-0f735ac5679f/raw?se=2025-09-18T06%3A01%3A36Z&sp=r&sv=2024-08-04&sr=b&scid=481ffe91-6845-54ee-9b51-f5a2b89177af&skoid=03727f49-62d3-42ac-8350-1c0e6559d238&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-18T00%3A22%3A12Z&ske=2025-09-19T00%3A22%3A12Z&sks=b&skv=2024-08-04&sig=XwAh59OptmuOOCt3c3SPAVnsRnbadS%2BXNeN8nvlO7Z0%3D") no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -870,4 +870,5 @@ section:nth-child(odd) .animate.scroll,
    
 
 }
+
 
